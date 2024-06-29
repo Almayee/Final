@@ -1,0 +1,17 @@
+C:\Users\Almaye\Desktop\FinallyProject\Bussiness\bin\Debug\net8.0\Bussiness.deps.json
+C:\Users\Almaye\Desktop\FinallyProject\Bussiness\bin\Debug\net8.0\Bussiness.dll
+C:\Users\Almaye\Desktop\FinallyProject\Bussiness\bin\Debug\net8.0\Bussiness.pdb
+C:\Users\Almaye\Desktop\FinallyProject\Bussiness\bin\Debug\net8.0\Core.dll
+C:\Users\Almaye\Desktop\FinallyProject\Bussiness\bin\Debug\net8.0\Data.dll
+C:\Users\Almaye\Desktop\FinallyProject\Bussiness\bin\Debug\net8.0\Data.pdb
+C:\Users\Almaye\Desktop\FinallyProject\Bussiness\bin\Debug\net8.0\Core.pdb
+C:\Users\Almaye\Desktop\FinallyProject\Bussiness\obj\Debug\net8.0\Bussiness.csproj.AssemblyReference.cache
+C:\Users\Almaye\Desktop\FinallyProject\Bussiness\obj\Debug\net8.0\Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Almaye\Desktop\FinallyProject\Bussiness\obj\Debug\net8.0\Bussiness.AssemblyInfoInputs.cache
+C:\Users\Almaye\Desktop\FinallyProject\Bussiness\obj\Debug\net8.0\Bussiness.AssemblyInfo.cs
+C:\Users\Almaye\Desktop\FinallyProject\Bussiness\obj\Debug\net8.0\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Almaye\Desktop\FinallyProject\Bussiness\obj\Debug\net8.0\Bussiness.csproj.Up2Date
+C:\Users\Almaye\Desktop\FinallyProject\Bussiness\obj\Debug\net8.0\Bussiness.dll
+C:\Users\Almaye\Desktop\FinallyProject\Bussiness\obj\Debug\net8.0\refint\Bussiness.dll
+C:\Users\Almaye\Desktop\FinallyProject\Bussiness\obj\Debug\net8.0\Bussiness.pdb
+C:\Users\Almaye\Desktop\FinallyProject\Bussiness\obj\Debug\net8.0\ref\Bussiness.dll
