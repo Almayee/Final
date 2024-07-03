@@ -28,10 +28,16 @@ builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
 
 builder.Services.AddScoped<IMovieRepository, MovieRepository>();
 builder.Services.AddScoped<ISliderRepository, SliderRepository>();
-
+builder.Services.AddScoped<IOfficeRepository, OfficeRepository>();
+builder.Services.AddScoped<IContactMassageRepository, ContactMassageRepository>();
+builder.Services.AddScoped<ICommentRepository, CommentRepository>();
 
 builder.Services.AddScoped<IMovieService, MovieService>();
 builder.Services.AddScoped<ISliderService, SliderService>();
+builder.Services.AddScoped<IOfficeService, OfficeService>();
+builder.Services.AddScoped<IContactMassageService, ContactMassageService>();
+builder.Services.AddScoped<ICommentService, CommentService>();
+
 
 var app = builder.Build();
 

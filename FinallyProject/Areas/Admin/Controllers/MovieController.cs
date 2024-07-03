@@ -26,7 +26,7 @@ namespace FinallyProject.Areas.Admin.Controllers
             return View();
         }
         [HttpPost]
-        public async Task<IActionResult> Create(Movie movie)
+        public async Task<IActionResult> Create(Film movie)
         {
             if (!ModelState.IsValid)
                 return View();
@@ -65,7 +65,7 @@ namespace FinallyProject.Areas.Admin.Controllers
             return View(existMovie);
         }
         [HttpPost]
-        public IActionResult Update(Movie movie)
+        public IActionResult Update(Film movie)
         {
             if (!ModelState.IsValid)
                 return View();

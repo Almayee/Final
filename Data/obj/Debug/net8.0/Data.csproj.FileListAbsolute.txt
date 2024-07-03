@@ -15,3 +15,4 @@ C:\Users\Almaye\Desktop\FinallyProject\Data\obj\Debug\net8.0\refint\Data.dll
 C:\Users\Almaye\Desktop\FinallyProject\Data\obj\Debug\net8.0\Data.pdb
 C:\Users\Almaye\Desktop\FinallyProject\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
 C:\Users\Almaye\Desktop\FinallyProject\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\Almaye\Desktop\FinallyProject\Data\obj\Debug\net8.0\Data.sourcelink.json

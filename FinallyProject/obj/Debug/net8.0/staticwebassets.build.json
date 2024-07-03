@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kFt2jfL1xsWQ2S9+weUPWc12XhoS91MLO8q96A5Mc6E=",
+  "Hash": "gR5Yx47TsSH+uWOBmw28kGf625cSqUjAPAlDj/ciX0w=",
   "Source": "FinallyProject",
   "BasePath": "_content/FinallyProject",
   "Mode": "Default",
@@ -36248,6 +36248,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\movies\\8f7b5071-ee9d-4fb7-a2a1-c5e11d77fdca.png"
+    },
+    {
+      "Identity": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\wwwroot\\uploads\\movies\\e15d8566-1432-4ddb-a93a-d41cad095f4c.png",
+      "SourceId": "FinallyProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\wwwroot\\",
+      "BasePath": "_content/FinallyProject",
+      "RelativePath": "uploads/movies/e15d8566-1432-4ddb-a93a-d41cad095f4c.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\movies\\e15d8566-1432-4ddb-a93a-d41cad095f4c.png"
     },
     {
       "Identity": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\wwwroot\\vendors\\bootstrap\\fonts\\glyphicons-halflings-regular.eot",

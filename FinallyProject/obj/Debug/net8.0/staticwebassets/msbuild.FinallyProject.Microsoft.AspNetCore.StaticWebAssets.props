@@ -30496,6 +30496,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\movies\8f7b5071-ee9d-4fb7-a2a1-c5e11d77fdca.png))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\movies\e15d8566-1432-4ddb-a93a-d41cad095f4c.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>FinallyProject</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/FinallyProject</BasePath>
+      <RelativePath>uploads/movies/e15d8566-1432-4ddb-a93a-d41cad095f4c.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\movies\e15d8566-1432-4ddb-a93a-d41cad095f4c.png))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\vendors\bootstrap\fonts\glyphicons-halflings-regular.eot))">
       <SourceType>Package</SourceType>
       <SourceId>FinallyProject</SourceId>

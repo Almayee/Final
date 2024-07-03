@@ -9,10 +9,10 @@ namespace Bussiness.Services.Abstracts
 {
     public interface IMovieService
     {
-        Task AddMovie(Movie movie);
-        void UpdateMovie(Movie newMovie, int id);
+        Task AddMovie(Film movie);
+        void UpdateMovie(Film newMovie, int id);
         void DeleteMovie(int id);
-        Movie GetMovie(Func<Movie, bool>? predicate = null);
-        List<Movie> GetAllMovies(Func<Movie, bool>? predicate = null);
+        Film GetMovie(Func<Film, bool>? predicate = null);
+        List<Film> GetAllMovies(Func<Film, bool>? predicate = null);
     }
 }

@@ -262,3 +262,4 @@ C:\Users\Almaye\Desktop\FinallyProject\FinallyProject\bin\Debug\net8.0\Microsoft
 C:\Users\Almaye\Desktop\FinallyProject\FinallyProject\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\Almaye\Desktop\FinallyProject\FinallyProject\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Almaye\Desktop\FinallyProject\FinallyProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Almaye\Desktop\FinallyProject\FinallyProject\obj\Debug\net8.0\FinallyProject.sourcelink.json

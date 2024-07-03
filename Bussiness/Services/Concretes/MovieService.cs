@@ -21,7 +21,7 @@ namespace Bussiness.Services.Concretes
             _env = env;
             _movieRepository = movieRepository;
         }
-        public async Task AddMovie(Movie movie)
+        public async Task AddMovie(Film movie)
         {
             if (movie.ImageFile == null)
                 throw new Exceptions.FileNotFoundException("The file cannot be empty!");
@@ -44,17 +44,17 @@ namespace Bussiness.Services.Concretes
             _movieRepository.Commit();
         }
 
-        public List<Movie> GetAllMovies(Func<Movie, bool>? predicate = null)
+        public List<Film> GetAllMovies(Func<Film, bool>? predicate = null)
         {
             return _movieRepository.GetAll(predicate);
         }
 
-        public Movie GetMovie(Func<Movie, bool>? predicate = null)
+        public Film GetMovie(Func<Film, bool>? predicate = null)
         {
             return _movieRepository.Get(predicate);
         }
 
-        public void UpdateMovie(Movie newMovie, int id)
+        public void UpdateMovie(Film newMovie, int id)
         {
             var oldMovie = _movieRepository.Get(x => x.Id == id);
 

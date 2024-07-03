@@ -14,8 +14,10 @@ namespace Data.DAL
         public AppDbContext(DbContextOptions options) : base(options)
         {
         }
-        public DbSet<Movie> Movies { get; set; }
+        public DbSet<Film> Films { get; set; }
         public DbSet<Slider> Sliders { get; set; }
+        public DbSet<Office> Offices { get; set; }
+        public DbSet<ContactMessage> ContactMessages { get; set; }
         public DbSet<AppUser> AppUsers { get; set; }
     }
 }
