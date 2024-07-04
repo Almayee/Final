@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 
 namespace Data.RepositoryConcretes
 {
-    public class MovieRepository : GenericRepository<Film>, IMovieRepository
+    public class FilmRepository : GenericRepository<Film>, IFilmRepository
     {
-        public MovieRepository(AppDbContext appDbContext) : base(appDbContext)
+        public FilmRepository(AppDbContext appDbContext) : base(appDbContext)
         {
         }
     }

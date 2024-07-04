@@ -7,17 +7,17 @@ using Microsoft.AspNetCore.Mvc;
 namespace FinallyProject.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize(Roles = "SuperAdmin")]
+    //[Authorize(Roles = "SuperAdmin")]
     public class MovieController : Controller
     {
-        private readonly IMovieService _movieService;
-        public MovieController(IMovieService movieService)
+        private readonly IFilmService _filmService;
+        public MovieController(IFilmService filmService)
         {
-                _movieService = movieService;
+                _filmService = filmService;
         }
         public IActionResult Index()
         {
-           var movies = _movieService.GetAllMovies();
+           var movies = _filmService.GetAllFilms();
             return View(movies);
         }
 
@@ -26,14 +26,14 @@ namespace FinallyProject.Areas.Admin.Controllers
             return View();
         }
         [HttpPost]
-        public async Task<IActionResult> Create(Film movie)
+        public async Task<IActionResult> Create(Film film)
         {
             if (!ModelState.IsValid)
                 return View();
 
             try
             {
-                await _movieService.AddMovie(movie);
+                await _filmService.AddFilm(film);
             }
             catch (ImageContentTypeException ex)
             {
@@ -59,20 +59,20 @@ namespace FinallyProject.Areas.Admin.Controllers
         }
         public IActionResult Update(int id)
         {
-            var existMovie = _movieService.GetMovie(x => x.Id == id);
-            if (existMovie == null)
+            var existFilm = _filmService.GetFilm(x => x.Id == id);
+            if (existFilm == null)
                 return View("Error");
-            return View(existMovie);
+            return View(existFilm);
         }
         [HttpPost]
-        public IActionResult Update(Film movie)
+        public IActionResult Update(Film film)
         {
             if (!ModelState.IsValid)
                 return View();
 
             try
             {
-                _movieService.UpdateMovie(movie, movie.Id);
+                _filmService.UpdateFilm(film, film.Id);
             }
             catch (EntityNotFoundException ex)
             {
@@ -103,7 +103,7 @@ namespace FinallyProject.Areas.Admin.Controllers
         }
         public IActionResult Delete(int id)
         {
-            var existMovie = _movieService.GetMovie(x => x.Id == id);
+            var existMovie = _filmService.GetFilm(x => x.Id == id);
             if (existMovie == null)
                 return View("Error");
             return View(existMovie);
@@ -115,7 +115,7 @@ namespace FinallyProject.Areas.Admin.Controllers
 
             try
             {
-                _movieService.DeleteMovie(id);
+                _filmService.DeleteFilm(id);
             }
             catch (EntityNotFoundException ex)
             {

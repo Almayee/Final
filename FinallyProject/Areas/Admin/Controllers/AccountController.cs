@@ -49,7 +49,7 @@ namespace FinallyProject.Areas.Admin.Controllers
             return View();
         }
         [HttpPost]
-        public async Task<IActionResult> Login( AdminLoginVm adminLoginVm)
+        public async Task<IActionResult> Login(AdminLoginVm adminLoginVm)
         {
             if (!ModelState.IsValid)
                 return View();

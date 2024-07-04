@@ -28,7 +28,7 @@ namespace Core.Models
 		public DateTime ReleaseDate { get; set; }
 		[StringLength(100)]
 		public string? ImageUrl { get; set; }
-		
+		public string? VideoUrl { get;set; }
 		[NotMapped]
 		public IFormFile? ImageFile { get; set; }
 		public List<Comment> Comments { get; set; }

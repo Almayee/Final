@@ -18,6 +18,7 @@ namespace Data.DAL
         public DbSet<Slider> Sliders { get; set; }
         public DbSet<Office> Offices { get; set; }
         public DbSet<ContactMessage> ContactMessages { get; set; }
+        public DbSet<Comment> Comments { get; set; }
         public DbSet<AppUser> AppUsers { get; set; }
     }
 }

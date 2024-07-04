@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Core.Models
 {
-    public class Office:BaseEntity
+    public class Office : BaseEntity
     {
         [Required]
         public int Rank { get; set; }

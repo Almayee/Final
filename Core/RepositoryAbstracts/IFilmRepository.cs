@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Core.RepositoryAbstracts
 {
-    public interface IMovieRepository:IGenericRepository<Film>
+    public interface IFilmRepository:IGenericRepository<Film>
     {
     }
 }
