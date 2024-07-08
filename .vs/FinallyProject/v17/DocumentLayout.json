@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{89DCEDFF-1502-49B4-A1C9-48B1DCEBD55A}|FinallyProject\\FinallyProject.csproj|c:\\users\\almaye\\desktop\\finallyproject\\finallyproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89DCEDFF-1502-49B4-A1C9-48B1DCEBD55A}|FinallyProject\\FinallyProject.csproj|solutionrelative:finallyproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89DCEDFF-1502-49B4-A1C9-48B1DCEBD55A}|FinallyProject\\FinallyProject.csproj|c:\\users\\almaye\\desktop\\finallyproject\\finallyproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89DCEDFF-1502-49B4-A1C9-48B1DCEBD55A}|FinallyProject\\FinallyProject.csproj|solutionrelative:finallyproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{89DCEDFF-1502-49B4-A1C9-48B1DCEBD55A}|FinallyProject\\FinallyProject.csproj|c:\\users\\almaye\\desktop\\finallyproject\\finallyproject\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89DCEDFF-1502-49B4-A1C9-48B1DCEBD55A}|FinallyProject\\FinallyProject.csproj|solutionrelative:finallyproject\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -45,14 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{89DCEDFF-1502-49B4-A1C9-48B1DCEBD55A}|FinallyProject\\FinallyProject.csproj|c:\\users\\almaye\\desktop\\finallyproject\\finallyproject\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89DCEDFF-1502-49B4-A1C9-48B1DCEBD55A}|FinallyProject\\FinallyProject.csproj|solutionrelative:finallyproject\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89DCEDFF-1502-49B4-A1C9-48B1DCEBD55A}|FinallyProject\\FinallyProject.csproj|c:\\users\\almaye\\desktop\\finallyproject\\finallyproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{89DCEDFF-1502-49B4-A1C9-48B1DCEBD55A}|FinallyProject\\FinallyProject.csproj|solutionrelative:finallyproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89DCEDFF-1502-49B4-A1C9-48B1DCEBD55A}|FinallyProject\\FinallyProject.csproj|c:\\users\\almaye\\desktop\\finallyproject\\finallyproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{89DCEDFF-1502-49B4-A1C9-48B1DCEBD55A}|FinallyProject\\FinallyProject.csproj|solutionrelative:finallyproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{89DCEDFF-1502-49B4-A1C9-48B1DCEBD55A}|FinallyProject\\FinallyProject.csproj|c:\\users\\almaye\\desktop\\finallyproject\\finallyproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -323,32 +323,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\Areas\\Admin\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "FinallyProject\\Areas\\Admin\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\Areas\\Admin\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "FinallyProject\\Areas\\Admin\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAADwvy8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T10:29:40.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\Program.cs",
-              "RelativeDocumentMoniker": "FinallyProject\\Program.cs",
-              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\Program.cs",
-              "RelativeToolTip": "FinallyProject\\Program.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAUwEEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T13:32:27.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "FinallyProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
@@ -356,12 +330,11 @@
               "RelativeToolTip": "FinallyProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T06:42:17.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T06:42:17.57Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MovieController.cs",
               "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\Areas\\Admin\\Controllers\\MovieController.cs",
               "RelativeDocumentMoniker": "FinallyProject\\Areas\\Admin\\Controllers\\MovieController.cs",
@@ -369,12 +342,11 @@
               "RelativeToolTip": "FinallyProject\\Areas\\Admin\\Controllers\\MovieController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAkwAkAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T06:54:59.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T06:54:59.178Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "OfficeController.cs",
               "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\Areas\\Admin\\Controllers\\OfficeController.cs",
               "RelativeDocumentMoniker": "FinallyProject\\Areas\\Admin\\Controllers\\OfficeController.cs",
@@ -382,25 +354,23 @@
               "RelativeToolTip": "FinallyProject\\Areas\\Admin\\Controllers\\OfficeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T20:25:13.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T20:25:13.627Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SliderController.cs",
               "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\Areas\\Admin\\Controllers\\SliderController.cs",
               "RelativeDocumentMoniker": "FinallyProject\\Areas\\Admin\\Controllers\\SliderController.cs",
               "ToolTip": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\Areas\\Admin\\Controllers\\SliderController.cs",
               "RelativeToolTip": "FinallyProject\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAkwAoAAAAGAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T09:04:09.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T09:04:09.497Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "FinallyProject\\ScaffoldingReadMe.txt",
@@ -408,12 +378,60 @@
               "RelativeToolTip": "FinallyProject\\ScaffoldingReadMe.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-06-21T14:31:02.13Z",
+              "WhenOpened": "2024-06-21T14:31:02.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FinallyProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FinallyProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T20:06:07.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinallyProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FinallyProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAACcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T20:05:38.338Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\Program.cs",
+              "RelativeDocumentMoniker": "FinallyProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\Program.cs",
+              "RelativeToolTip": "FinallyProject\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAUwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:32:27.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FinallyProject\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FinallyProject\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAADwvy8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T10:29:40.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\Data\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\DAL\\AppDbContext.cs",
@@ -421,12 +439,11 @@
               "RelativeToolTip": "Data\\DAL\\AppDbContext.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAgwBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T13:24:40.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T13:24:40.306Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "AdminLoginVm.cs",
               "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\Areas\\Admin\\ViewModels\\AdminLoginVm.cs",
               "RelativeDocumentMoniker": "FinallyProject\\Areas\\Admin\\ViewModels\\AdminLoginVm.cs",
@@ -434,12 +451,11 @@
               "RelativeToolTip": "FinallyProject\\Areas\\Admin\\ViewModels\\AdminLoginVm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T10:50:24.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T10:50:24.941Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\Areas\\Admin\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "FinallyProject\\Areas\\Admin\\Views\\Account\\Login.cshtml",
@@ -447,12 +463,11 @@
               "RelativeToolTip": "FinallyProject\\Areas\\Admin\\Views\\Account\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T10:30:12.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T10:30:12.535Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "HomeVM.cs",
               "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\ViewModels\\HomeVM.cs",
               "RelativeDocumentMoniker": "FinallyProject\\ViewModels\\HomeVM.cs",
@@ -460,34 +475,7 @@
               "RelativeToolTip": "FinallyProject\\ViewModels\\HomeVM.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T15:10:12.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FinallyProject\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FinallyProject\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAALQAAAAAAAAAAAAAAMoAAABXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-20T20:06:07.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "FinallyProject\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Almaye\\Desktop\\FinallyProject\\FinallyProject\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "FinallyProject\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-20T20:05:38.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T15:10:12.679Z"
             },
             {
               "$type": "Document",
@@ -499,8 +487,7 @@
               "RelativeToolTip": "FinallyProject\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAkwBUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T20:05:40.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T20:05:40.962Z"
             },
             {
               "$type": "Document",
@@ -512,8 +499,7 @@
               "RelativeToolTip": "Bussiness\\Services\\Concretes\\ContactMassageService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T20:08:15.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T20:08:15.297Z"
             },
             {
               "$type": "Document",
@@ -525,8 +511,7 @@
               "RelativeToolTip": "Bussiness\\Services\\Concretes\\CommentService.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAADwvyMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T20:15:02.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T20:15:02.347Z"
             },
             {
               "$type": "Document",
@@ -538,8 +523,7 @@
               "RelativeToolTip": "Bussiness\\Services\\Concretes\\OfficeService.cs",
               "ViewState": "AQIAAC0AAAAAAAAAAADwv0gAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T19:59:18.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T19:59:18.529Z"
             },
             {
               "$type": "Document",
@@ -551,8 +535,7 @@
               "RelativeToolTip": "Bussiness\\Services\\Concretes\\SliderService.cs",
               "ViewState": "AQIAAC8AAAAAAAAAAAAUwEsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T08:41:56.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T08:41:56.89Z"
             },
             {
               "$type": "Document",
@@ -564,8 +547,7 @@
               "RelativeToolTip": "Bussiness\\Services\\Concretes\\FilmService.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAowE0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T14:22:38.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T14:22:38.007Z"
             },
             {
               "$type": "Document",
@@ -577,8 +559,7 @@
               "RelativeToolTip": "Bussiness\\Services\\Abstracts\\IFilmService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T14:20:59.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T14:20:59.679Z"
             },
             {
               "$type": "Document",
@@ -590,8 +571,7 @@
               "RelativeToolTip": "Core\\RepositoryAbstracts\\IFilmRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T13:54:15.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T13:54:15.709Z"
             },
             {
               "$type": "Document",
@@ -603,8 +583,7 @@
               "RelativeToolTip": "Core\\Models\\Film.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAmwCEAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T10:47:36.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T10:47:36.702Z"
             },
             {
               "$type": "Document",
@@ -616,8 +595,7 @@
               "RelativeToolTip": "FinallyProject\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAJIBAAAAAAAAAAAqwLABAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T06:44:03.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T06:44:03.938Z"
             },
             {
               "$type": "Document",
@@ -629,8 +607,7 @@
               "RelativeToolTip": "FinallyProject\\Areas\\Admin\\Views\\Shared\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T07:33:06.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T07:33:06.346Z"
             },
             {
               "$type": "Document",
@@ -642,8 +619,7 @@
               "RelativeToolTip": "FinallyProject\\Areas\\Admin\\Views\\Office\\Update.cshtml",
               "ViewState": "AQIAABMAAAAAAAAAAAAqwCIAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-03T20:48:05.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T20:48:05.314Z"
             },
             {
               "$type": "Document",
@@ -655,8 +631,7 @@
               "RelativeToolTip": "FinallyProject\\Areas\\Admin\\Views\\Office\\Index.cshtml",
               "ViewState": "AQIAABQAAAAAAAAAAAAqwDIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-03T20:27:18.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T20:27:18.346Z"
             },
             {
               "$type": "Document",
@@ -668,8 +643,7 @@
               "RelativeToolTip": "FinallyProject\\Areas\\Admin\\Views\\Office\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-03T20:46:30.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T20:46:30.365Z"
             },
             {
               "$type": "Document",
@@ -681,8 +655,7 @@
               "RelativeToolTip": "FinallyProject\\Areas\\Admin\\Views\\Office\\Create.cshtml",
               "ViewState": "AQIAAAoAAAAAAAAAAAAqwCgAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-03T20:40:54.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T20:40:54.773Z"
             },
             {
               "$type": "Document",
@@ -694,8 +667,7 @@
               "RelativeToolTip": "FinallyProject\\Areas\\Admin\\Views\\Movie\\Update.cshtml",
               "ViewState": "AQIAAAsAAAAAAAAAAAAmwCQAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T07:28:31.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T07:28:31.469Z"
             },
             {
               "$type": "Document",
@@ -707,8 +679,7 @@
               "RelativeToolTip": "FinallyProject\\Areas\\Admin\\Views\\Movie\\Index.cshtml",
               "ViewState": "AQIAABQAAAAAAAAAAAAmwDIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T06:59:57.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T06:59:57.169Z"
             },
             {
               "$type": "Document",
@@ -720,8 +691,7 @@
               "RelativeToolTip": "FinallyProject\\Areas\\Admin\\Views\\Movie\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T07:24:24.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T07:24:24.22Z"
             },
             {
               "$type": "Document",
@@ -733,8 +703,7 @@
               "RelativeToolTip": "FinallyProject\\Areas\\Admin\\Views\\Movie\\Create.cshtml",
               "ViewState": "AQIAAAoAAAAAAAAAAAAmwCgAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T07:23:04.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T07:23:04.876Z"
             },
             {
               "$type": "Document",
@@ -746,8 +715,7 @@
               "RelativeToolTip": "FinallyProject\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AQIAADoBAAAAAAAAAAAmwFgBAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T06:45:12.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T06:45:12.794Z"
             },
             {
               "$type": "Document",
@@ -759,8 +727,7 @@
               "RelativeToolTip": "Bussiness\\Services\\Abstracts\\ISliderService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T08:40:41.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T08:40:41.693Z"
             },
             {
               "$type": "Document",
@@ -772,8 +739,7 @@
               "RelativeToolTip": "Bussiness\\Services\\Abstracts\\IOfficeService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T19:58:21.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T19:58:21.286Z"
             },
             {
               "$type": "Document",
@@ -785,8 +751,7 @@
               "RelativeToolTip": "Bussiness\\Services\\Abstracts\\IContactMassageService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T20:07:42.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T20:07:42.139Z"
             },
             {
               "$type": "Document",
@@ -798,8 +763,7 @@
               "RelativeToolTip": "Bussiness\\Services\\Abstracts\\ICommentService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T20:14:33.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T20:14:33.562Z"
             },
             {
               "$type": "Document",
@@ -811,8 +775,7 @@
               "RelativeToolTip": "Bussiness\\Extensions\\Helper.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAUwCcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T14:18:10.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T14:18:10.339Z"
             },
             {
               "$type": "Document",
@@ -824,8 +787,7 @@
               "RelativeToolTip": "Bussiness\\Exceptions\\ImageSizeException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T14:16:25.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T14:16:25.298Z"
             },
             {
               "$type": "Document",
@@ -837,8 +799,7 @@
               "RelativeToolTip": "Bussiness\\Exceptions\\ImageContentTypeException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T14:15:20.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T14:15:20.138Z"
             },
             {
               "$type": "Document",
@@ -850,8 +811,7 @@
               "RelativeToolTip": "Bussiness\\Exceptions\\FileNullReferenceException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T14:14:36.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T14:14:36.2Z"
             },
             {
               "$type": "Document",
@@ -863,8 +823,7 @@
               "RelativeToolTip": "Bussiness\\Exceptions\\FileNotFoundException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T14:13:52.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T14:13:52.288Z"
             },
             {
               "$type": "Document",
@@ -876,8 +835,7 @@
               "RelativeToolTip": "Bussiness\\Exceptions\\EntityNotFoundException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T14:13:07.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T14:13:07.017Z"
             },
             {
               "$type": "Document",
@@ -889,8 +847,7 @@
               "RelativeToolTip": "Data\\RepositoryConcretes\\SliderRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T08:46:31.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T08:46:31.417Z"
             },
             {
               "$type": "Document",
@@ -902,8 +859,7 @@
               "RelativeToolTip": "Data\\RepositoryConcretes\\OfficeRepository.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAUwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T19:56:33.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T19:56:33.782Z"
             },
             {
               "$type": "Document",
@@ -915,8 +871,7 @@
               "RelativeToolTip": "Data\\RepositoryConcretes\\FilmRepository.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAUwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T14:04:04.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T14:04:04.84Z"
             },
             {
               "$type": "Document",
@@ -928,8 +883,7 @@
               "RelativeToolTip": "Data\\RepositoryConcretes\\GenericRepository.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAAUwDUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T13:58:31.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T13:58:31.292Z"
             },
             {
               "$type": "Document",
@@ -941,8 +895,7 @@
               "RelativeToolTip": "Data\\RepositoryConcretes\\ContactMassageRepository.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAUwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T20:07:00.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T20:07:00.734Z"
             },
             {
               "$type": "Document",
@@ -954,8 +907,7 @@
               "RelativeToolTip": "Data\\RepositoryConcretes\\CommentRepository.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAUwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T20:13:59.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T20:13:59.145Z"
             },
             {
               "$type": "Document",
@@ -967,8 +919,7 @@
               "RelativeToolTip": "Core\\RepositoryAbstracts\\IContactMassageRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T20:06:26.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T20:06:26.789Z"
             },
             {
               "$type": "Document",
@@ -980,8 +931,7 @@
               "RelativeToolTip": "Core\\RepositoryAbstracts\\ICommentRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T20:13:15.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T20:13:15.085Z"
             },
             {
               "$type": "Document",
@@ -993,8 +943,7 @@
               "RelativeToolTip": "Core\\RepositoryAbstracts\\IGenericRepository.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAUwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T13:54:52.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T13:54:52.854Z"
             },
             {
               "$type": "Document",
@@ -1006,8 +955,7 @@
               "RelativeToolTip": "Core\\RepositoryAbstracts\\ISliderRepository.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T08:43:17.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T08:43:17.99Z"
             },
             {
               "$type": "Document",
@@ -1019,8 +967,7 @@
               "RelativeToolTip": "Core\\RepositoryAbstracts\\IOfficeRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T19:55:45.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T19:55:45.624Z"
             },
             {
               "$type": "Document",
@@ -1032,8 +979,7 @@
               "RelativeToolTip": "Core\\Models\\AppUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T10:15:44.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T10:15:44.809Z"
             },
             {
               "$type": "Document",
@@ -1045,8 +991,7 @@
               "RelativeToolTip": "Core\\Models\\Comment.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAUwBQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T20:10:31.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T20:10:31.883Z"
             },
             {
               "$type": "Document",
@@ -1058,8 +1003,7 @@
               "RelativeToolTip": "Core\\Models\\Office.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAywBcAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T19:51:19.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T19:51:19.144Z"
             },
             {
               "$type": "Document",
@@ -1071,8 +1015,7 @@
               "RelativeToolTip": "Core\\Models\\ContactMassage.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAUwBQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T20:01:46.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T20:01:46.416Z"
             },
             {
               "$type": "Document",
@@ -1084,8 +1027,7 @@
               "RelativeToolTip": "Core\\Models\\Slider.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAgwBIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T08:25:23.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T08:25:23.292Z"
             },
             {
               "$type": "Document",
@@ -1097,8 +1039,7 @@
               "RelativeToolTip": "FinallyProject\\Views\\Single\\Index.cshtml",
               "ViewState": "AQIAADQBAAAAAAAAAAAAAF4BAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T17:36:12.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T17:36:12.761Z"
             },
             {
               "$type": "Document",
@@ -1110,8 +1051,7 @@
               "RelativeToolTip": "FinallyProject\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-20T20:05:08.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T20:05:08.761Z"
             },
             {
               "$type": "Document",
@@ -1123,8 +1063,7 @@
               "RelativeToolTip": "FinallyProject\\Views\\Order\\Index.cshtml",
               "ViewState": "AQIAAOMDAAAAAAAAAADwvyoEAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T17:35:04.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T17:35:04.902Z"
             },
             {
               "$type": "Document",
@@ -1136,8 +1075,7 @@
               "RelativeToolTip": "FinallyProject\\Views\\Blog\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-23T17:33:55.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T17:33:55.445Z"
             },
             {
               "$type": "Document",
@@ -1149,8 +1087,7 @@
               "RelativeToolTip": "FinallyProject\\Controllers\\SingleController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T17:36:01.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T17:36:01.771Z"
             },
             {
               "$type": "Document",
@@ -1162,8 +1099,7 @@
               "RelativeToolTip": "FinallyProject\\Controllers\\OrderController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T17:34:53.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T17:34:53.07Z"
             },
             {
               "$type": "Document",
@@ -1175,8 +1111,7 @@
               "RelativeToolTip": "FinallyProject\\Controllers\\BlogController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T17:33:11.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T17:33:11.943Z"
             },
             {
               "$type": "Document",
@@ -1188,8 +1123,7 @@
               "RelativeToolTip": "FinallyProject\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-24T09:28:14.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T09:28:14.098Z"
             },
             {
               "$type": "Document",
@@ -1201,8 +1135,7 @@
               "RelativeToolTip": "FinallyProject\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAqwCoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-24T09:04:56.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T09:04:56.61Z"
             },
             {
               "$type": "Document",
@@ -1214,8 +1147,7 @@
               "RelativeToolTip": "FinallyProject\\Areas\\Admin\\Views\\Slider\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-24T09:22:24.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T09:22:24.338Z"
             },
             {
               "$type": "Document",
@@ -1227,8 +1159,7 @@
               "RelativeToolTip": "FinallyProject\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-24T09:20:42.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T09:20:42.293Z"
             },
             {
               "$type": "Document",
@@ -1240,8 +1171,7 @@
               "RelativeToolTip": "Core\\Models\\BaseEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T10:47:02.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T10:47:02.722Z"
             },
             {
               "$type": "Document",

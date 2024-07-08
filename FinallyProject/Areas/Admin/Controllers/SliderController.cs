@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.Mvc;
 namespace FinallyProject.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    //
+    //
     //[Authorize(Roles = "SuperAdmin")]
     public class SliderController : Controller
     {
